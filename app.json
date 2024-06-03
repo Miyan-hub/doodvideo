@@ -15,7 +15,7 @@
   "addons": [],
   "buildpacks": [
     {
-      "url": "heroku/nodejs"
+      "url": "heroku/python"
     }
   ],
   "stack": "heroku-22"
